@@ -50,3 +50,6 @@ The program might recognize an immediate win and the threat of an immediate loss
 remember the last unforced choice it made in that game, and keep a record to try something
 else in the same situation next time. The result, after many games, would be a complete list of
 all possible sequences
+
+
+**This project has been performed under the guidance of Prof. Biswajit Mishra.**
