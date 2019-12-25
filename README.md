@@ -51,5 +51,9 @@ remember the last unforced choice it made in that game, and keep a record to try
 else in the same situation next time. The result, after many games, would be a complete list of
 all possible sequences
 
+### References
+
+1. DIGITAL DESIGN: PRINCIPLES AND PRACTICES by John F. Wakerly
+2. [link](https://people.eecs.berkeley.edu/ bh/pdf/v1ch06.pdf)
 
 **This project has been performed under the guidance of Prof. Biswajit Mishra.**
