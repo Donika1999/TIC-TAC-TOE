@@ -54,6 +54,6 @@ all possible sequences
 ### References
 
 1. DIGITAL DESIGN: PRINCIPLES AND PRACTICES by John F. Wakerly
-2. [link](https://people.eecs.berkeley.edu/ bh/pdf/v1ch06.pdf)
+2. https://people.eecs.berkeley.edu/~bh/pdf/v1ch06.pdf
 
 **This project has been performed under the guidance of Prof. Biswajit Mishra.**
