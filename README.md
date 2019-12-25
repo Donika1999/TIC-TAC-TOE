@@ -5,7 +5,7 @@ player plays the Tic Tac Toe game with a computer.
 The machine is playing a defensive game and hence, the human player will always move first. Each
 time the player moves, the machine waits for two seconds before making its move.
 
-![TTT grid]()
+![TTT grid](/ttt.png)
 
 Input is be a 3 X 3 array, a reset button, and a switch SW1. If SW1 is off, the computer always wins
 if possible, or draw (nobody wins) if winning is not possible. If SW1 is on, part of the machine’s logic
