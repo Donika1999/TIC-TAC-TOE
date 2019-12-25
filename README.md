@@ -39,7 +39,7 @@ is center, the machine’s second move should be corner if rule (b) does not app
   
 ### SM Chart
  
- ![smchart](/SM Chart.png)
+ ![smchart](/smc.png)
     
 ### Further Explorations
  
